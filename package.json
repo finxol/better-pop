@@ -1,0 +1,22 @@
+{
+  "name": "better-pop",
+  "version": "1.0.1",
+  "description": "A better way to pop elements from arrays in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finxol/better-pop.git"
+  },
+  "keywords": [
+    "pop"
+  ],
+  "author": "finxol <github.com/finxol>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/finxol/better-pop/issues"
+  },
+  "homepage": "https://github.com/finxol/better-pop#readme"
+}
